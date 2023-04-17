@@ -1,0 +1,6 @@
+1. добрый день. Нужно скопировать на гид вот это git@github.com:SlavaStefanets/GitTest.git  и затем в терминале написать команду git clone git@github.com:SlavaStefanets/GitTest.git
+2. Comand Gîț fetch.
+3. Git status.  Проветка статуса
+Git log.  Просмотр изменений
+Git remote -v. Список удаленных репозиторием.
+
